@@ -1,5 +1,5 @@
 ---
-title: "iterlab: matplotlib GUIs you draw, with code that reloads while the window stays open"
+title: "Matplotlib GUIs drawn, not programmed, and edited without restarting: faster iteration for scientific research"
 date: 2026-10-18T10:59:51-04:00
 draft: false
 description: "
