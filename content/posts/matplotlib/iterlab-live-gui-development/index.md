@@ -61,6 +61,10 @@ click a button in the window that is already open, and the new version runs.
 edits, mistakes included. A syntax error or an exception is reported in the window, and the session
 carries on so you can fix it and continue.
 
+If you would rather watch than read, this short introduction shows the whole loop in action:
+
+{{< youtube G_HzmkInHAs >}}
+
 ## A first interface
 
 ```console
@@ -234,7 +238,7 @@ If you want to try it:
 - `pip install iterlab`, then `iterlab demo`
 - the [user guide](https://github.com/alonhzn/iterlab/blob/main/GUIDE.md) walks through the editor
   and the handler API for every element
-- a short [introduction video](https://www.youtube.com/watch?v=G_HzmkInHAs) shows the loop in action
+- the [introduction video](https://www.youtube.com/watch?v=G_HzmkInHAs) (embedded above) shows the loop from start to finish
 
 Feedback and issues are very welcome on
 [GitHub](https://github.com/alonhzn/iterlab/issues), especially from anyone whose day is mostly
