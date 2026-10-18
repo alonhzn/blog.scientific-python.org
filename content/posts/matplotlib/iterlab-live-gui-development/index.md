@@ -63,7 +63,7 @@ carries on so you can fix it and continue.
 
 If you would rather watch than read, this short introduction shows the whole loop in action:
 
-{{< youtube G_HzmkInHAs >}}
+{{< youtube id="G_HzmkInHAs" title="iterlab introduction: drawing an interface and editing its code without restarting" >}}
 
 ## A first interface
 
